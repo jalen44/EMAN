@@ -1,0 +1,122 @@
+/* <style type="text/css"> */
+
+
+body {
+
+        text-align: center;
+        background-color: rgb(211, 211, 211));
+        padding: 100px;
+        padding-top: 10px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(151, 151, 151);
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: rgb(90, 90, 90);
+}
+.svgClass {
+    background-color:rgb(97, 97, 97);;
+    float:left;
+    width:70%;
+    color:#fff;
+    padding:10px;
+    box-sizing:border-box;
+}
+polygon{
+    fill:white; transition: 1s fill;
+
+}
+polygon:hover {
+    fill: burlywood;
+
+}
+.lideta { stroke:yellow;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 50%;}
+.kirkos{stroke:greenyellow;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 10%;}
+.nifassilk{stroke:goldenrod;stroke-width: 2px;stroke-dasharray: 3; fill:
+gainsboro; fill-opacity: 50%;}.akakikaliti {stroke:olive;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 10%;}
+.yeka{stroke:lawngreen;stroke-width: 2px;stroke-dasharray: 3;fill:gainsboro;
+fill-opacity: 10%;}
+.bole{stroke:green;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro; fillopacity: 10%;}
+.kolfekeraniyo{stroke: khaki;stroke-width: 2px;stroke-dasharray: 3; fill:
+gainsboro; fill-opacity: 50%;}
+.addisketema{stroke:palegoldenrod;stroke-width: 2px;stroke-dasharray: 3;
+fill:gainsboro;fill-opacity: 50%;}
+.arada{stroke:peru;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro; fillopacity: 50%;}
+.gulele{stroke:orange;stroke-width: 2px; stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 50%;}
+
+.removed{
+display: none;
+}
+button{
+
+        float: right;
+        color: white;
+        font-size: 20px;
+        background:rgb(97, 97, 97);
+        border: none;
+        outline: none;
+        left: 10%;
+        width: 260px;
+        text-align: left;
+}
+button.hover{
+    fill: whitesmoke;
+}
+
+#sidebar{
+    text-align: left;
+    float:right;
+    width:30%;
+    background:none;
+    color:#fff;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+p{
+    color: rgb(117, 117, 117);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-image: url(joanneum-museum-extension-by-nieto-sobejano-arquitectos08,jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+ul{
+    float: left;
+    list-style-type: none;
+    margin-top: 25px; 
+    padding-right: 0px;
+
+}
+ul li{
+    display: inline-block
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 20px;
+    border: 1px solid black; 
+    transition: 0.6s ease;
+
+}
+ul li a:hover{
+    background-color: grey;
+    color: #000;
+
+}
+
+ul li.active a{
+    background-color: #fff;
+    color: #000;

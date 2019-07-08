@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <title>idk</title>
+    <link rel="stylesheet" type="text/css" href="idk link.css">
+</head>
+<body>
+    <h1>LOREM IPSUM</h1>
+    <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id consectetur blanditiis nihil unde ea placeat adipisci iure velit dolor, eaque, quod, dolorem cupiditate eum sapiente perspiciatis assumenda. Officiis, dolore et!
+    </p>
+    <div>
+        <ul>
+            <li><a href="assignment1.html">Assignment1</a></li>
+            <li><a href="assignment2.html">Assignment2</a></li>
+            <li><a href="assignment3.html">Assignment3</a></li>
+            <li>Lorem, ipsum dolor.</li>
+            <li>Lorem ipsum dolor sit.</li>
+        </ul>
+    </div>
+</body>
+</html>
